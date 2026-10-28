@@ -1,8 +1,8 @@
 {
   "name": "soares-code-helper",
   "displayName": "Soares Code Helper",
-  "description": "Uma extensão que goza contigo enquanto programas.",
-  "version": "0.0.2",
+  "description": "Escreve //love, //dragon, //joke... e a linha vira um desenho em comentário. //help mostra todos.",
+  "version": "0.0.3",
   "publisher": "simaosoares",
   "icon": "icon.png",
   "galleryBanner": {
